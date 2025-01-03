@@ -52,6 +52,7 @@ export const PROJECTS = [
   },
 ];
 
+
 export const CONTACT = {
   address: "Poços de Caldas, Brasil, ",
   phoneNo: "+55 35910171728 ",
