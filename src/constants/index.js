@@ -56,5 +56,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Poços de Caldas, Brasil, ",
   phoneNo: "+55 35910171728 ",
-  email: "felipesiquierasantossilva@gmail.com",
+  email: "felipesiqueirasantossilva@gmail.com",
 };
